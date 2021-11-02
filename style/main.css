@@ -41,7 +41,8 @@ p {
     line-height: 1.4;
     margin-bottom: 42px;
 }
-a {
+.main a,
+.promo a {
     color: #1E2F40;
     background-color: #FBB731;
     border-radius: 5px;
